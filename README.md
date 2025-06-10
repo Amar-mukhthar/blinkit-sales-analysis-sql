@@ -6,7 +6,7 @@ This project analyzes sales data from Blinkit using SQL for backend analysis and
 
 ## 📊 Live Tableau Dashboard
 
-🔗 [Click here to view the interactive dashboard](https://public.tableau.com/views/Book1_17494595432910/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [Click here to view the interactive dashboard](https://public.tableau.com/views/Book1_17494595432910/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   - Intract with dat using Sales by outlet type by clicking on the different outlet types [Tier 1, Tier 2 & Tiers 3]
 
 ---
 
